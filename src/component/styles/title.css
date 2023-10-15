@@ -1,0 +1,8 @@
+.title {
+    font-family: "Bebas Neue";
+    font-size: 40px;
+    max-height: 2em;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}

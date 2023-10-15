@@ -1,0 +1,13 @@
+.Call {
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    align-items: center;
+    justify-content: space-between;
+    flex-grow: 1;
+}
+
+.face {
+    display: flex;
+    background-color: aliceblue;
+}
