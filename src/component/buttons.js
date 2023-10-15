@@ -1,6 +1,6 @@
 import accept from '../assets/accept.png';
 import end from '../assets/end.png';
-import talk from '../assets/talk.png';
+import talk from '../assets/mute.png';
 import './styles/buttons.css';
 
 function Buttons() {
